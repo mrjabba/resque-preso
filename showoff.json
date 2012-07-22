@@ -1,0 +1,12 @@
+{
+  "name": "Resque-preso",
+  "description": "Presentation reviewing the resque gem",
+  "author": "Kevin Hutson",
+  "templates" : {
+      "special" : "simple.tpl"
+  },
+  "pause_msg": "Paused !!!",
+  "sections": [
+    {"section":"preso"}
+  ]
+}
