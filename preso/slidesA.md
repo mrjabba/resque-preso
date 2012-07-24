@@ -184,12 +184,11 @@ bundle install
 
 ..then..
 
-!SLIDE
+!SLIDE fixed-top
 
-Resque-Web fixed-top
+Resque-Web 
 
 ![Resque Web](resque-web.jpg)
-
 
 !SLIDE
 
