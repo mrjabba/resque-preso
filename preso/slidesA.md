@@ -186,9 +186,10 @@ bundle install
 
 !SLIDE
 
-Resque-Web
+Resque-Web fixed-top
 
 ![Resque Web](resque-web.jpg)
+
 
 !SLIDE
 

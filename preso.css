@@ -8,6 +8,9 @@ body, #preso, .slide {
 a { text-decoration: none; color: #00b6d6; }
 a:visited { text-decoration: none; color: #00b6d6; }
 
+.fixed-top {
+        margin-top: 0px !important;
+}
 
 pre.sh_sourceCode  {
   color: cyan;
