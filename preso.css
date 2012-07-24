@@ -1,0 +1,27 @@
+body, #preso, .slide {
+  background-color: #222222;
+  color: #88b6d6;
+  border: none;
+  margin: none;
+}
+
+a { text-decoration: none; color: #00b6d6; }
+a:visited { text-decoration: none; color: #00b6d6; }
+
+
+pre.sh_sourceCode  {
+  color: cyan;
+  background-color: black;
+}
+
+blockquote {
+  color: white;
+}
+
+.larger {
+  font-size: 2em;
+}
+
+.smaller {
+  font-size: 1.5em;
+}
