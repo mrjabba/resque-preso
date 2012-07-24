@@ -14,19 +14,19 @@ Kevin Hutson
 **Blog:** <http://cedarpark.com>
 
 
-!SLIDE
+!SLIDE fixed-top
 
 My background.
 
 ![Java](java-duke-logo.png)
 
-!SLIDE
+!SLIDE fixed-top
 
 This happened.
 
 ![Snoracle](snoracle.jpg)
 
-!SLIDE
+!SLIDE fixed-top
 
 So, I made this happen.
 Ruby as a hobby turned to work.
@@ -42,19 +42,19 @@ Ruby as a hobby turned to work.
 * Monitoring
 * Ideal for Transient Data
 
-!SLIDE
+!SLIDE fixed-top
 
 Resque Overview
 
 ![Resque Architecture](resque-architecture.jpg)
 
-!SLIDE
+!SLIDE fixed-top
 
 Resque w/ Rails
 
 ![Resque Architecture](resque-architecture-app.jpg)
 
-!SLIDE
+!SLIDE fixed-top
 
 Resque w/ Rails
 
